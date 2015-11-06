@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+title: Perkt.io
+date: 2015-03-01
+img: perkt.jpg
+alt: image-alt
+project-date: March 2015
+category: Hackathon, Hardware
+link: timothyong/hackillinois
+description: The result of my first hackathon ever (at my school no less!), Perkt was a project incepted by my team and I and involves the meshing of hardware such as the Arduino and software written in Python and Flask to create an image recognition security hack. It utilizes the Python library OpenCV and a facial recognition algorithm written from scratch to identify pictures via webcam and determines whether the user is "authorized" or an "intruder".  
+---
